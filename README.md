@@ -1,2 +1,2 @@
-# my_r_project_template
-Basic template for an R project the way I like it
+# Wk04-Class_materials-
+Code and materials to be used during the Week 4 class
